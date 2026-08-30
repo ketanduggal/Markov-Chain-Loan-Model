@@ -11,3 +11,11 @@ enableXsrfProtection = true
 gatherUsageStats = false
 serverAddress = "localhost"
 serverPort = 8501
+
+[theme]
+base = "light"
+primaryColor = "#C5A059"
+backgroundColor = "#F9F8F6"
+secondaryBackgroundColor = "#F3EFEA"
+textColor = "#1A1A1A"
+font = "sans serif"
